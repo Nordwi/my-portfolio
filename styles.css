@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    background-color: #1C1C1C;
+    background-image: url(images/moving-formation2x-2x-RIFE-RIFE3.1-40fps.gif);
+    background-size: 1000px 700px;
+    background-position: top 100px right 450px;
+    background-repeat: no-repeat;
+}
+
+html{
+    cursor: url(images/cursor.svg), auto;
+}
+
+#tagline {
+    font-weight: 200;
+    font-size: 17px;
+    margin-left: 53px;
+    margin-top: -10px;
+}
+
+.headline{
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: -0.5px;
+    margin: 250px 0 0 50px;
+    line-height: 30px;
+}
+
+.btn {
+    margin:20px 0 0 100px;
+    padding: 12px 24px;
+    background-color: #28282B;
+    border: 5px solid #FFFFFF;
+    color: #FFFFFF;
+    border-radius: 50px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;;
+    font-size: 16px;
+}
+
+.btn:hover,
+.btn:focus {
+    cursor: url(images/pointing.svg), auto;
+}
+
+
