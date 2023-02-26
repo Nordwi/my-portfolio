@@ -10,7 +10,7 @@ body {
 }
 
 html{
-    cursor: url(images/cursor.svg), auto;
+    cursor: url(images/cursor.png), auto;
 }
 
 #tagline {
@@ -42,7 +42,7 @@ html{
 
 .btn:hover,
 .btn:focus {
-    cursor: url(images/pointing.svg), auto;
+    cursor: url(images/tap.png), auto;
 }
 
 
