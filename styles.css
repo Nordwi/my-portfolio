@@ -4,7 +4,7 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #1C1C1C;
     background-image: url(images/min.gif);
-    background-size: 1200px 1000px;
+    background-size: 1100px 900px;
     background-repeat: no-repeat;
     background-position: top 5px center;
 }
@@ -24,7 +24,7 @@ html{
     font-weight: 700;
     font-size: 40px;
     letter-spacing: -0.5px;
-    margin: 250px 0 0 50px;
+    margin: 100px 0 0 50px;
     line-height: 30px;
 }
 
@@ -43,6 +43,24 @@ html{
 .btn:hover,
 .btn:focus {
     cursor: url(images/tap.png), auto;
+}
+
+.links-wrap{
+    display: flex;
+    list-style: none;
+    justify-content: end;
+    margin: 0 20px 200px 0;
+}
+
+.btn-link{
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 200;
+    font-size: 30px;
 }
 
 
